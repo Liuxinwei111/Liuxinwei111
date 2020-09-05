@@ -5,12 +5,17 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+啦啦啦啦啦啦啦
+
+- 🔭 我是刘新伟
+
+- 🌱 我是计算机科学与技术的一名学生
+
+- 👯 我会一些C语言和C++
+
+- 🤔 我希望能够学一些Java和python
+
+- 💬 我的邮箱是842774212@qq.com
+
+- 📫 欢迎来找我玩
+
